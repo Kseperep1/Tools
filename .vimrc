@@ -1,0 +1,14 @@
+set autoindent
+set colorcolumn=80
+set ruler
+set nobackup
+set cursorline
+syn on
+set undolevels=1000
+set title
+set smartindent
+set copyindent
+set visualbell
+set noswapfile
+set number
+set cindent
